@@ -1,0 +1,14 @@
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/obj/Debug/netcoreapp3.1/DIO.series.csproj.AssemblyReference.cache
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/obj/Debug/netcoreapp3.1/DIO.series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/obj/Debug/netcoreapp3.1/DIO.series.AssemblyInfoInputs.cache
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/obj/Debug/netcoreapp3.1/DIO.series.AssemblyInfo.cs
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/obj/Debug/netcoreapp3.1/DIO.series.csproj.CoreCompileInputs.cache
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/bin/Debug/netcoreapp3.1/DIO.series
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/bin/Debug/netcoreapp3.1/DIO.series.deps.json
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/bin/Debug/netcoreapp3.1/DIO.series.runtimeconfig.json
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/bin/Debug/netcoreapp3.1/DIO.series.runtimeconfig.dev.json
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/bin/Debug/netcoreapp3.1/DIO.series.dll
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/bin/Debug/netcoreapp3.1/DIO.series.pdb
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/obj/Debug/netcoreapp3.1/DIO.series.dll
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/obj/Debug/netcoreapp3.1/DIO.series.pdb
+/Users/henriquefmaia/Desktop/Alura/DIO/seriesFlix/DIO.series/obj/Debug/netcoreapp3.1/DIO.series.genruntimeconfig.cache
